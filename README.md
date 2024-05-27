@@ -5,6 +5,5 @@ I am interested in web development and know PHP programming language which helpe
 I am currently studying C#, which gives a wider range of projects that can be found on freelancing. I also intend to tighten up the frontend a bit in terms of VUE.js , React, I'm interested in working with Node.js.
 
 You can find me by email:
-pavel7mikhaylov@gmail.com
-Mobile: +1 512 893 1616
+jelezniydrug@gmail.com
 
